@@ -12,13 +12,13 @@ We welcome applications from students with a strong background in:
 * Mathematical modeling and optimization.
 * Basic programming skills (e.g., Python, Julia, or C++).
 
-A background in quantum computing is **not required**, but a strong desire to learn and conduct rigorous research in this area is essential.
+A background in quantum computing is **not strictly required**, but a strong desire to learn and conduct rigorous research in this area is essential.
 
 ---
 
 ## How to Apply
 
-If you are interested in joining **QORE**, please send an email to **[Your Email Address]** with the subject line: "Prospective Student - [Your Name]". 
+If you are interested in joining **QORE**, please send an email to **ozbaygin@bilkent.edu.tr** with the subject line: "Prospective Student - [Your Name]". 
 
 Please include the following in your email:
 1. **A brief introduction** explaining your research interests and why you want to work with us.
@@ -28,10 +28,10 @@ Please include the following in your email:
 ---
 
 ## Undergraduate Research
-We also occasionally have openings for motivated Bilkent undergraduate students to join us as Research Assistants. If you are interested in gaining experience in optimization and quantum research, feel free to reach out.
+We also occasionally have openings for motivated Bilkent undergraduate students to join us as research assistants. If you are interested in gaining experience in optimization and quantum research, feel free to reach out.
 
 ## Contact Information
-**Office:** [Your Office Number/Location]  
+**Office:** EA329  
 **Department:** Industrial Engineering  
 **University:** Bilkent University  
-**Email:** [Your Email Address]
+**Email:** ozbaygin@bilkent.edu.tr
