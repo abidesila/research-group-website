@@ -1,33 +1,34 @@
 ---
-title: "Welcome to Quantum Optimization Research Group"
+title: "Welcome to QORE"
 ---
 
 ![](images/home.jpg){width=100%}
 
+**QORE** (Quantum Operations Research) is a research lab based in Bilkent University. We develop new methods to solve complex problems by combining classical optimization with quantum approaches to investigate where quantum technology has the potential to provide a real advantage.
 
-  The Quantum Optimization Research Group is based in the Department of Industrial Engineering at Bilkent University. The group conducts research on quantum optimization, computational methods, and mathematical modeling.
+---
 
+## What We Do
 
-## Overview
+We focus on creating **hybrid quantum-classical algorithms**. Our goal is to solve difficult challenges in decision science and mathematical optimization that are currently too hard for traditional computers to handle alone.
 
-The Quantum Optimization Research Group focuses on the development of **hybrid quantum classical optimization algorithms** for challenging problems arising in mathematical optimization and decision science. Our work lies at the intersection of **quantum computing**, **optimization theory**, and **computational methods**.
 
 ## Research Focus
 
-Our primary research direction is the design and analysis of algorithms for **Mixed Integer Semidefinite Programming** and related problem classes. These problems are computationally demanding and arise in a wide range of applications, including control, finance, and engineering design.
+Our primary work focuses on **mixed-integer optimization**, which is a broad family of optimization problems found in numerous application areas, including:
+* **Logistics and Transportation**
+* **Finance and Risk Management**
+* **Engineering Design**
 
-We investigate how **quantum resources**, when integrated with classical optimization frameworks, can improve performance in terms of solution quality, scalability, and computational efficiency.
+We study how/whether **quantum algorithmic components** can enhance the solution of mixed-integer optimization problems.
 
-## Methodological Approach
+## Our Approach
 
-Our research emphasizes:
-- Hybrid quantum classical algorithm design  
-- Semidefinite programming and cutting-plane methods  
-- Branch and bound frameworks for mixed-integer problems  
-- Computational benchmarking and performance evaluation  
+In our lab, we aim to bridge the gap between theory and practice by focusing on:
+* **Hybrid Algorithm Design:** Combining the strengths of both classical and quantum computing.
+* **Smart Frameworks:** Developing new ways to break down and solve mixed-integer problems.
+* **Coputational Testing:** Using rigorous benchmarking to explore the performance and scalability of our methods.
 
 ## Keywords
 
-*Hybrid quantum classical optimization, MISDP, semidefinite programming, branch and bound, quantum algorithms*
-
-
+*Hybrid Optimization, Mixed-Integer Optimization, Quantum Algorithms, Algorithm Design, Decision Science*
