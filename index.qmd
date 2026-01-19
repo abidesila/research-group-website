@@ -15,19 +15,19 @@ We focus on creating **hybrid quantum-classical algorithms**. Our goal is to sol
 
 ## Research Focus
 
-Our primary work focuses on **mixed-integer optimization**, which is a broad family of optimization problems found in numerous application areas, including:
+Our primary work lies in **mixed-integer optimization**, which is a broad family of optimization problems found in numerous application areas, including:
 * **Logistics and Transportation**
 * **Finance and Risk Management**
 * **Engineering Design**
 
-We study how/whether **quantum algorithmic components** can enhance the solution of mixed-integer optimization problems.
+We study how and when **quantum algorithmic components** can enhance the solution of mixed-integer optimization problems.
 
 ## Our Approach
 
 In our lab, we aim to bridge the gap between theory and practice by focusing on:
 * **Hybrid Algorithm Design:** Combining the strengths of both classical and quantum computing.
 * **Smart Frameworks:** Developing new ways to break down and solve mixed-integer problems.
-* **Coputational Testing:** Using rigorous benchmarking to explore the performance and scalability of our methods.
+* **Computational Testing:** Using rigorous benchmarking to explore the performance and scalability of our methods.
 
 ## Keywords
 
