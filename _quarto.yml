@@ -13,6 +13,8 @@ website:
         text: About
       - href: people.qmd
         text: People
+      - href: projects.qmd
+        text: Projects
       - href: join.qmd
       text: Join us
 
