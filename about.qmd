@@ -4,7 +4,7 @@ title: "About"
 
 ## About QORE
 
-**QORE** (Quantum Operations Research) is a research lab founded at **Bilkent University**. Our lab is home to a global team of researchers who are experts in various scientific fields. By combining our knowledge from across the world, we are able to approach optimization and quantum technology from new and innovative perspectives.  We work at the intersection of optimization theory, computational methods, and emerging quantum technologies.
+**QORE** (Quantum Operations Research) is a research lab founded at **Bilkent University**. Our lab is home to a global team of researchers who are experts in various scientific fields. We work at the intersection of optimization theory, computational methods, and emerging quantum technologies.
 
 ---
 
@@ -26,9 +26,11 @@ We aim to conduct research that is valuable to both the academic community and f
 At **QORE**, we do not treat quantum computing as a stand-alone solution. Instead, we study how quantum tools can be integrated into existing mathematical frameworks to solve problems more effectively.
 
 In our research, we prioritize:
+
 * **Mathematical rigor** and clear theoretical foundations.
 * **Smart algorithm design** and decomposition.
 * **Computational benchmarking** to measure how well our methods perform and scale.
+
 ---
 
 ## Collaboration
@@ -39,6 +41,6 @@ In our research, we prioritize:
 
 ## Where We Are
 
-**QORE** is based in the **Department of Industrial Engineering** at **Bilkent University**, one of the leading research universities in Türkiye. Bilkent provides a strong interdisciplinary research environment and access to a vibrant academic community.
+**QORE** is based in the **Department of Industrial Engineering** at **Bilkent University**, one of the leading research universities in Turkey. Bilkent provides a strong interdisciplinary research environment and access to a vibrant academic community.
 
 ---
