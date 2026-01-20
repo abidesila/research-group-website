@@ -21,6 +21,7 @@ A background in quantum computing is **not strictly required**, but a strong des
 If you are interested in joining **QORE**, please send an email to **ozbaygin@bilkent.edu.tr** with the subject line: "Prospective Student - [Your Name]". 
 
 Please include the following in your email:
+
 1. **A brief introduction** explaining your research interests and why you want to work with us.
 2. **Your CV**, including any relevant projects or publications.
 3. **Your transcripts** (undergraduate and/or graduate).
@@ -32,6 +33,6 @@ We also occasionally have openings for motivated Bilkent undergraduate students 
 
 ## Contact Information
 **Office:** EA329  
-**Department:** Industrial Engineering  
-**University:** Bilkent University  
+Department of Industrial Engineering  
+Bilkent University  
 **Email:** ozbaygin@bilkent.edu.tr

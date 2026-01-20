@@ -2,6 +2,9 @@
 title: "People"
 ---
 
+We are an interdisciplinary team of researchers from around the globe collaborating on various projects.
+
+
 ## Director
 
 ::: {.person}
@@ -21,6 +24,7 @@ Mixed-integer programming, large-scale optimization, quantum optimization.
 
 ::: {.person}
 ![](images/people/ulus.jpg){width=160px}
+
 ### Dr. Firdevs Ulus
 **Associate Professor**
 Department of Industrial Engineering, Bilkent University
@@ -28,6 +32,7 @@ Department of Industrial Engineering, Bilkent University
 
 ::: {.person}
 ![](images/people/cavus.jpg){width=160px}
+
 ### Dr. Özlem Çavuş
 **Associate Professor**
 Department of Industrial Engineering, Bilkent University
@@ -35,15 +40,15 @@ Department of Industrial Engineering, Bilkent University
 
 ::: {.person}
 ![](images/people/okay.jpg){width=160px}
+
 ### Dr. Cihan Okay
 **Assistant Professor**
 Department of Mathematics, Bilkent University
 :::
 
-Experts from around the globe collaborate with **QORE** on various research initiatives and interdisciplinary projects.
-
 ::: {.person}
 ![](images/people/kocuk.jpg){width=160px}
+
 ### Dr. Burak Kocuk
 **Associate Professor**
 Engineering and Natural Sciences, Sabancı University
@@ -51,6 +56,7 @@ Engineering and Natural Sciences, Sabancı University
 
 ::: {.person}
 ![](images/people/ramirez.jpg){width=160px}
+
 ### Dr. Diego Moran Ramirez
 **Assistant Professor**
 Industrial and Systems Engineering, Rensselaer Polytechnic Institute
@@ -58,6 +64,7 @@ Industrial and Systems Engineering, Rensselaer Polytechnic Institute
 
 ::: {.person}
 ![](images/people/yildirim.jpg){width=160px}
+
 ### Dr. Sinan Yıldırım
 **Assistant Professor**
 Engineering and Natural Sciences, Sabancı University
@@ -65,19 +72,16 @@ Engineering and Natural Sciences, Sabancı University
 
 ::: {.person}
 ![](images/people/birbil.jpg){width=160px}
+
 ### Dr. İlker Birbil
 **Professor**
 Faculty of Economics and Business, University of Amsterdam
 :::
 ---
 
-## Students
+## Undergraduate Research Assistants
 
-### Abide Sıla Yapıcıoğlu
-**Role:** Undergraduate Research Assistant
-**Affiliation:** Industrial Engineering, Bilkent University
+* **Abide Sıla Yapıcıoğlu**
+* **Gökhan Gülçakır**
 
-### Gökhan Gülçakır
-**Role:** Undergraduate Research Assistant
-**Affiliation:** Industrial Engineering, Bilkent University
 ---
