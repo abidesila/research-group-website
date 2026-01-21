@@ -8,6 +8,7 @@ title: "Join QORE"
 
 ### Who We Are Looking For
 We welcome applications from students with a strong background in:
+
 * Industrial Engineering, Mathematics, Computer Science, or related fields.
 * Mathematical modeling and optimization.
 * Basic programming skills (e.g., Python, Julia, or C++).

@@ -10,7 +10,7 @@ title: "Welcome to QORE"
 
 ## What We Do
 
-We focus on developing and testing **hybrid quantum-classical algorithms** to address challenges in decision science and mathematical optimization that are difficult for traditional computers to handle alone.
+We focus on developing and testing **hybrid quantum-classical algorithms** to address challenges in decision sciences and mathematical optimization that are difficult for traditional computers to handle alone.
 
 
 ## Research Focus
