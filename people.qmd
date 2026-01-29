@@ -14,8 +14,7 @@ We are an interdisciplinary team of researchers from around the globe collaborat
 **Assistant Professor**
 Department of Industrial Engineering, Bilkent University
 
-**Research Interests:**
-Mixed-integer programming, large-scale optimization, quantum optimization.
+Gizem's research focuses on modeling and solving large-scale optimization problems, mostly with applications in transportation and logistics. Her recent work explores using quantum computing and physics-inspired methods to tackle complex challenges.
 :::
 
 ---
@@ -28,6 +27,8 @@ Mixed-integer programming, large-scale optimization, quantum optimization.
 ### Dr. Firdevs Ulus
 **Associate Professor**
 Department of Industrial Engineering, Bilkent University
+
+Firdevs' research focuses on multi-objective and vector optimization, particularly on designing and analyzing algorithms for linear, convex, nonconvex, and combinatorial vector optimization problems.
 :::
 
 ::: {.person}
@@ -36,6 +37,8 @@ Department of Industrial Engineering, Bilkent University
 ### Dr. Özlem Çavuş
 **Associate Professor**
 Department of Industrial Engineering, Bilkent University
+
+Özlem's research interests are in stochastic optimization, risk-averse optimization, Markov decision processes, and medical decision making.
 :::
 
 ::: {.person}
@@ -44,6 +47,8 @@ Department of Industrial Engineering, Bilkent University
 ### Dr. Cihan Okay
 **Assistant Professor**
 Department of Mathematics, Bilkent University
+
+Cihan's research is on the mathematics of quantum computing specializing in applications of methods from algebraic topology, representation theory, and polyhedral combinatorics to quantum foundations and computing. 
 :::
 
 ::: {.person}
@@ -52,6 +57,8 @@ Department of Mathematics, Bilkent University
 ### Dr. Burak Kocuk
 **Associate Professor**
 Engineering and Natural Sciences, Sabancı University
+
+Burak’s research focuses on developing global optimization methods for mixed-integer nonlinear programming problems arising in engineering optimization and stochastic optimization.
 :::
 
 ::: {.person}
@@ -60,6 +67,8 @@ Engineering and Natural Sciences, Sabancı University
 ### Dr. Diego Moran Ramirez
 **Assistant Professor**
 Industrial and Systems Engineering, Rensselaer Polytechnic Institute
+
+Diego's research focuses on the theory of mixed integer programming, cutting planes, and duality.
 :::
 
 ::: {.person}
@@ -68,6 +77,8 @@ Industrial and Systems Engineering, Rensselaer Polytechnic Institute
 ### Dr. Sinan Yıldırım
 **Assistant Professor**
 Engineering and Natural Sciences, Sabancı University
+
+Sinan’s research focuses on Bayesian statistics, Monte Carlo methods, and data privacy in machine learning.
 :::
 
 ::: {.person}
@@ -76,12 +87,14 @@ Engineering and Natural Sciences, Sabancı University
 ### Dr. İlker Birbil
 **Professor**
 Faculty of Economics and Business, University of Amsterdam
+
+Ilker’s research focuses on optimization methods for artificial intelligence and decision making. More recently, he is  interested in explainable and trustworthy optimization.
 :::
 ---
 
 ## Undergraduate Research Assistants
 
-* **Abide Sıla Yapıcıoğlu**
-* **Gökhan Gülçakır**
+* **Abide Sıla Yapıcıoğlu (IE)**
+* **Hüseyin Beyribey (IE)**
 
 ---
